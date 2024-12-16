@@ -6,6 +6,7 @@ Welcome to the SecureKiosk Support Center! This repository contains comprehensiv
 
 - [Support Documentation](SUPPORT.md)
 - [Getting Started](docs/getting-started.md)
+- [Intune Configuration Guide](docs/intune-configuration.md)
 - [Troubleshooting Guide](docs/troubleshooting.md)
 - [FAQ](docs/faq.md)
 
