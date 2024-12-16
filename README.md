@@ -10,6 +10,7 @@ Welcome to the SecureKiosk Support Center! This repository contains comprehensiv
 - [Troubleshooting Guide](docs/troubleshooting.md)
 - [FAQ](docs/faq.md)
 - [Third-Party Notices](THIRD_PARTY_NOTICES.md)
+- [Privacy Policy](PRIVACY_POLICY.md)
 
 ## About SecureKiosk
 
