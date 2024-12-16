@@ -9,6 +9,7 @@ Welcome to the SecureKiosk Support Center! This repository contains comprehensiv
 - [Intune Configuration Guide](docs/intune-configuration.md)
 - [Troubleshooting Guide](docs/troubleshooting.md)
 - [FAQ](docs/faq.md)
+- [Third-Party Notices](THIRD_PARTY_NOTICES.md)
 
 ## About SecureKiosk
 
