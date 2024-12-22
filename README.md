@@ -1,37 +1,56 @@
 # SecureKiosk Support
 
-Welcome to the SecureKiosk Support Center! This repository contains comprehensive documentation and support resources for the SecureKiosk iOS application.
+Welcome to the SecureKiosk Support Center! This repository contains comprehensive documentation and support resources for both the free and enterprise versions of the SecureKiosk iOS application.
 
-## Quick Links
+## Free Version
 
-- [Support Documentation](SUPPORT.md)
-- [Getting Started](docs/getting-started.md)
-- [Intune Configuration Guide](docs/intune-configuration.md)
-- [Troubleshooting Guide](docs/troubleshooting.md)
-- [FAQ](docs/faq.md)
-- [Third-Party Notices](THIRD_PARTY_NOTICES.md)
-- [Privacy Policy](PRIVACY_POLICY.md)
+### Quick Links
+- [Getting Started (Free)](docs/free/getting-started.md)
+- [User Guide](docs/free/user-guide.md)
+- [Troubleshooting](docs/free/troubleshooting.md)
+- [FAQ](docs/free/faq.md)
 
-## About SecureKiosk
+### Features
+- Single URL kiosk mode
+- Basic security controls
+- PIN protection
+- Auto-lock functionality
 
-SecureKiosk is an iOS application designed to provide a secure, managed environment for iOS devices. It integrates with Microsoft Intune for enterprise management and offers features such as:
+## Enterprise Version
 
-- Secure application management
-- Volume Purchase Program (VPP) support
+### Quick Links
+- [Enterprise Setup Guide](docs/enterprise/setup-guide.md)
+- [Intune Configuration](docs/enterprise/intune-configuration.md)
+- [Advanced Features](docs/enterprise/features.md)
+- [Enterprise FAQ](docs/enterprise/faq.md)
+- [Deployment Guide](docs/enterprise/deployment.md)
+
+### Enterprise Features
+- Multiple URL management
+- Custom branding options
 - Microsoft Intune integration
-- Enterprise-grade security features
+- Centralized management
+- Advanced configuration options
+- Enhanced security controls
 
-## Contact Support
+## General Resources
+- [Privacy Policy](PRIVACY_POLICY.md)
+- [Third-Party Notices](THIRD_PARTY_NOTICES.md)
+- [Support Policy](SUPPORT.md)
 
-If you need additional assistance:
+## Contact
 
-1. Check our [FAQ](docs/faq.md) for quick answers
-2. Review the [Troubleshooting Guide](docs/troubleshooting.md)
-3. Submit an issue through your enterprise support channel
+### Free Version Support
+For users of the free version, please:
+1. Check the [Free Version FAQ](docs/free/faq.md)
+2. Review the [Troubleshooting Guide](docs/free/troubleshooting.md)
+3. Submit an issue through GitHub if you need additional help
 
-## Enterprise Customers
-
-For enterprise customers, please contact your Microsoft Intune administrator for specialized support regarding device management and configuration.
+### Enterprise Support
+For enterprise customers:
+1. Contact your IT administrator for internal support
+2. Review the [Enterprise Documentation](docs/enterprise/)
+3. Contact enterprise support through your designated support channel
 
 ## Updates and Notifications
 
